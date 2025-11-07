@@ -20,20 +20,29 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&theme=transparent&show_icons=true&rank_icon=github&locale=en&title_color=DDA0DD&icon_color=B39DDB" alt="GitHub Stats" />
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&theme=transparent&show_icons=true&rank_icon=github&locale=en&title_color=DDA0DD&icon_color=B39DDB&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 
-<img
-  width="390"
-  src="https://streak-stats.demolab.com?user=lapsapthong-16&theme=transparent&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&ring=E1B8FF&fire=DDA0DD&currStreakLabel=DDA0DD"
-  alt="GitHub Streak"
-/>
+  <img
+    width="390"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lapsapthong-16&theme=transparent&count_private=true&border_radius=10&locale=en"
+    alt="GitHub Streak"
+  />
 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&title_color=DDA0DD&icon_color=B39DDB" alt="Top Languages" />
+  <img
+    width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&title_color=DDA0DD&icon_color=B39DDB"
+    alt="Top Languages"
+  />
 
 </div>
-
 ---
 
 ## 🐍 Contributions
