@@ -23,9 +23,11 @@
 
 ## 👨‍💻 About Me
 
-AI + backend ⚙️ • blockchain 🔗 • automation 🤖  
-Scalable services 📈 • clear data viz 📊 • hackathon wins 🏆  
-Java/Node 🛠️ • TensorFlow/PyTorch 🧩 • always learning 📚
+- 🤝 Backend-leaning engineer across **AI**, **blockchain**, and **automation**
+- 🧠 Enjoys shaping **data & backend flows**, building **scalable services**, and **visualizing insights**
+- 🏆 Hackathon-driven builder who prototypes fast, **measures**, and iterates
+- 📚 Currently diving deeper into **AI systems**, **blockchain**, and **workflow automation**
+- 🛠️ Comfortable with **Java/Node** backends + **TensorFlow** & **PyTorch**
 
 ---
 
