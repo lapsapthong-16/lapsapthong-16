@@ -83,11 +83,8 @@ A full-stack software engineer passionate about building beautiful, functional, 
   </picture>
 </div>
 
----
 
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=15,20,30&section=footer&animation=fadeIn" />
-  <br/>
-  💜💙💗 <b>Thank you for visiting!</b> 💗💙💜
 </p>
