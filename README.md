@@ -16,18 +16,16 @@
 </p>
 
 <p align="center"><b>
-I build beautiful, functional, human-centric web apps with a focus on clean UI, smooth UX, and practical performance.
+3rd-year Data Science student building scalable backend systems and AI-driven solutions with an emphasis on performance and reliability.
 </b></p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌈 Full-stack: **TypeScript/React/Next.js** • **Node/Java/MongoDB**  
-- 🧩 Interests: **design systems**, **D3 data-viz**, delightful component APIs  
-- 🚀 Currently: polishing projects; learning **system design** & **web performance**  
-- 🤝 Looking for: roles building end-to-end features with real user impact  
-- 📨 Reach me: email or LinkedIn above
+AI + backend ⚙️ • blockchain 🔗 • automation 🤖  
+Scalable services 📈 • clear data viz 📊 • hackathon wins 🏆  
+Java/Node 🛠️ • TensorFlow/PyTorch 🧩 • always learning 📚
 
 ---
 
