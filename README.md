@@ -1,41 +1,45 @@
 <!-- Hero -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=DDA0DD&duration=4000&lines=Hello!+👋;+I'm+lapsapthong-16!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=DDA0DD&duration=3500&pause=800&lines=Hello!+👋+I'm+lapsapthong-16;Full-Stack+Engineer;TypeScript+%7C+React+%7C+Next.js;Java+%7C+Node.js+%7C+MongoDB" alt="Typing intro" />
 </h1>
 
-<!-- Animated badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&height=35&color=DDA0DD&lines=Open+to+Opportunities;Full-Stack+Engineer;Design+%E2%9D%A4%EF%B8%8F+DX;TypeScript+%7C+React+%7C+Next.js;Java+%7C+Node.js+%7C+MongoDB" />
+  <b>🧑‍💻 Currently Working As:</b> 🧑‍🎓 <b>Student</b> | 🚀 <b>Oasis Protocol Sentinel</b>
 </p>
 
 <!-- Social / quick info badges -->
 <p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/your-handle/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-daa6ff?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-daa6ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-a7c7e7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=lapsapthong-16&label=Views&style=for-the-badge&color=dda0dd" />
+  <img src="https://komarev.com/ghpvc/?username=lapsapthong-16&label=Views&style=for-the-badge&color=dda0dd" alt="Profile Views" />
 </p>
 
 <p align="center"><b>
-A full-stack software engineer passionate about building beautiful, functional, and human-centric web applications.
+I build beautiful, functional, human-centric web apps with a focus on clean UI, smooth UX, and practical performance.
 </b></p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌈 Full-stack engineer who loves clean UI, smooth UX, and practical performance  
-- 🧩 Strengths: TypeScript/React/Next.js • Node/Java/MongoDB  
-- 📦 Interests: design systems, D3 data-viz, delightful component APIs  
-- 🚀 Currently: polishing projects; learning system design & web perf  
+- 🌈 Full-stack: **TypeScript/React/Next.js** • **Node/Java/MongoDB**  
+- 🧩 Interests: **design systems**, **D3 data-viz**, delightful component APIs  
+- 🚀 Currently: polishing projects; learning **system design** & **web performance**  
 - 🤝 Looking for: roles building end-to-end features with real user impact  
 - 📨 Reach me: email or LinkedIn above
+
+---
+
+## 🚧 Projects
+
+| Project | GitHub Link |
+|---|---|
+| **Project One** – short one-liner about what it does | [github.com/yourname/project-one](https://github.com/yourname/project-one) |
+| **Project Two** – short one-liner about what it does | [github.com/yourname/project-two](https://github.com/yourname/project-two) |
+| **Project Three** – short one-liner about what it does | [github.com/yourname/project-three](https://github.com/yourname/project-three) |
+
+> Tip: keep it to 3–5 projects; use concise one-liners that show impact (perf win, users, scale, DX).
 
 ---
 
