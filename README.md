@@ -27,3 +27,26 @@ I'm **lapsapthong-16** — welcome to my profile!
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="lapsapthong-16's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lapsapthong-16&theme=transparent&count_private=true&border_radius=10&locale=en" alt="lapsapthong-16's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="lapsapthong-16's Most Used Languages" />
+</div>
+
+<hr>
