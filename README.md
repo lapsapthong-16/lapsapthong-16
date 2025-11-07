@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/lapsapthong-16/count.svg?v=1" alt="Visitor's Count" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lapsapthong-16&title=Profile%20Views" alt="Hits" />
+
 </div>
