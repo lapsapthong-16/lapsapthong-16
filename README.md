@@ -3,6 +3,37 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=DDA0DD&duration=4000&lines=Hello!+👋;+I'm+lapsapthong-16!;" />
 </h1>
 
+<!-- Animated Badges -->
+<p align="center">
+  <!-- animated: quick rotating highlights -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&height=35&color=DDA0DD&lines=Open+to+Opportunities;Full-Stack+Engineer;Design+%E2%9D%A4%EF%B8%8F+DX;TypeScript+%7C+React+%7C+Next.js;Java+%7C+Node.js+%7C+MongoDB" />
+</p>
+
+<!-- Social / quick info badges (pastel) -->
+<p align="center">
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-handle/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-daa6ff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-a7c7e7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lapsapthong-16&label=Views&style=for-the-badge&color=dda0dd" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌈 **Full-stack engineer** who loves clean UI, smooth UX, and practical performance.  
+- 🧩 **Strengths:** TypeScript/React/Next.js on the front, Node/Java/MongoDB on the back.  
+- 📦 **Interests:** design systems, data-viz (D3), and component APIs that feel great to use.  
+- 🚀 **Currently:** polishing projects, learning a bit of system design & web perf.  
+- 🤝 **Looking for:** roles where I can build end-to-end features with real user impact.  
+- 📨 **Reach me:** email or LinkedIn above—happy to chat!
+
 <p align="center">
   <b>A full-stack software engineer passionate about building beautiful, functional, and human-centric web applications.</b>
 </p>
