@@ -33,8 +33,8 @@ I'm **lapsapthong-16** — welcome to my profile!
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,d3,git,figma" />
 </p>
 
 <hr>
