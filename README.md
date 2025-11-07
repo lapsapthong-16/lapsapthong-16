@@ -42,8 +42,7 @@ A full-stack software engineer passionate about building beautiful, functional, 
 ## 🎨 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,d3,git,figma" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,react,nextjs,nodejs,d3,redux,sklearn,tensorflow,pytorch,docker,git,github,anaconda,firebase,redis,pycharm,figma,matlab,gmail,mongodb&perline=12" />
 </p>
 
 ---
