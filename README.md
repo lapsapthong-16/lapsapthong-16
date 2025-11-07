@@ -1,35 +1,38 @@
-## Hi there 👋
----
-
+<!-- Hero Section -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello!+👋;+This+is+lapsapthong-16!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=DDA0DD&duration=4000&lines=Hello!+👋;+I'm+lapsapthong-16!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+<p align="center">
+  <b>A full-stack software engineer passionate about building beautiful, functional, and human-centric web applications.</b>
+</p>
 
-## 🛠️ Languages and Tools
+---
 
-<br>
+## 🎨 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,mongodb" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,d3,git,figma" />
 </p>
 
-<hr>
+---
 
-## ⚡️ Stats
+## 📊 GitHub Stats
 
-<br>
+<div align="center">
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="lapsapthong-16's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lapsapthong-16&theme=transparent&count_private=true&border_radius=10&locale=en" alt="lapsapthong-16's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="lapsapthong-16's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&theme=transparent&show_icons=true&rank_icon=github&locale=en&title_color=DDA0DD&icon_color=B39DDB" alt="GitHub Stats" />
+
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lapsapthong-16&theme=transparent&hide_border=false&border_radius=10&locale=en&ring=E1B8FF&fire=DDA0DD&currStreakLabel=DDA0DD" alt="GitHub Streak" />
+
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&title_color=DDA0DD&icon_color=B39DDB" alt="Top Languages" />
+
 </div>
 
-<hr>
-## 🐍 My Contributions
+---
+
+## 🐍 Contributions
 
 <div align="center">
   <picture>
@@ -39,4 +42,13 @@
   </picture>
 </div>
 
-<hr>
+---
+
+<br/>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=15,20,30&section=footer&animation=fadeIn" />
+  <br/>
+  💜💙💗 <b>Thank you for visiting!</b> 💗💙💜
+</p>
