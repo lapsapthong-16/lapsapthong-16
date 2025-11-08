@@ -1,6 +1,6 @@
 <!-- Hero -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=DDA0DD&duration=3500&pause=800&lines=Hello!+👋+I'm+lapsapthong-16;Full-Stack+Engineer;TypeScript+%7C+React+%7C+Next.js;Java+%7C+Node.js+%7C+MongoDB" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=DDA0DD&duration=3500&pause=800&lines=Hello!+👋+I'm+lapsapthong-16;Backend-Learning+Engineer;TypeScript+%7C+React+%7C+Next.js;Java+%7C+Node.js+%7C+MongoDB" alt="Typing intro" />
 </h1>
 
 <p align="center">
@@ -42,7 +42,7 @@
 > Tip: keep it to 3–5 projects; use concise one-liners that show impact (perf win, users, scale, DX).
 
 ---
-
+<!--
 ## 🎨 Tech Stack & Tools
 
 <p align="center">
@@ -50,7 +50,7 @@
 </p>
 
 ---
-
+ -->
 ## 📊 GitHub Stats
 
 <div align="center">
