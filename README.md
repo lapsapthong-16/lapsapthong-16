@@ -71,23 +71,19 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600"
-    alt="GitHub Stats"
-  />
-  <img
-    width="390"
-    src="https://streak-stats.demolab.com?user=lapsapthong-16&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img
-    width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&layout=donut&theme=transparent&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</div>
+<p align="center">
+  <img src="./profile-summary-card-output/omni/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/omni/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/omni/4-productive-time.svg" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/omni/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/omni/2-most-commit-language.svg" alt="Most Commit Language" />
+</p>>
 
 ---
 
