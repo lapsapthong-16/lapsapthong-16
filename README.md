@@ -72,25 +72,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&theme=transparent&show_icons=true&rank_icon=github&locale=en&title_color=DDA0DD&icon_color=B39DDB&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=lapsapthong-16&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600"
     alt="GitHub Stats"
   />
-
   <img
     width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lapsapthong-16&theme=transparent&count_private=true&border_radius=10&locale=en"
+    src="https://streak-stats.demolab.com?user=lapsapthong-16&theme=transparent&hide_border=true"
     alt="GitHub Streak"
   />
-
   <img
     width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&title_color=DDA0DD&icon_color=B39DDB"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lapsapthong-16&layout=donut&theme=transparent&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
-
 </div>
 
 ---
