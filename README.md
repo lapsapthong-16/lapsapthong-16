@@ -4,19 +4,19 @@
 </h1>
 
 <p align="center">
-  <b>🧑‍💻 Currently Working As:</b> 🧑‍🎓 <b>Student</b> | 🚀 <b>Oasis Protocol Sentinel</b>
+  🚀 <b>Oasis Protocol Sentinel</b> • 🤖 <b>AI + Backend Engineering</b> • 🎓 <b>Final-year Data Science</b>
 </p>
 
 <!-- Social / quick info badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-handle/">
+  <a href="https://www.linkedin.com/in/edwina-hon-548189340/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-daa6ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=lapsapthong-16&label=Views&style=for-the-badge&color=dda0dd" alt="Profile Views" />
 </p>
 
 <p align="center"><b>
-3rd-year Data Science student building scalable backend systems and AI-driven solutions with an emphasis on performance and reliability.
+I build backend systems, data pipelines, and AI features — optimized for speed, reliability, and clean architecture.
 </b></p>
 
 ---
