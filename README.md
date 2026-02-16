@@ -30,7 +30,7 @@
 - 🛠️ Comfortable with **Java/Node** backends + **TensorFlow** & **PyTorch**
 
 ---
-<!--
+
 ## 🎨 Tech Stack & Tools
 
 <p align="center">
@@ -38,7 +38,6 @@
 </p>
 
 ---
- -->
 ## 📊 GitHub Stats
 
 <div align="center">
