@@ -35,22 +35,37 @@
 
 ### 🧠 AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,anaconda&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,anaconda,matlab&perline=12" />
+</p>
+<p align="center">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white" />
 </p>
 
-### 🧱 Data Engineering
+### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,qdrant&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,fastapi,postgres,mongodb,firebase,git,github,gitlab,docker&perline=12" />
+</p>
+<p align="center">
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white" />
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF4D4D?style=flat&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 </p>
 
-### 🌐 Web3 Development
+### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,ethers,web3js&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,figma&perline=12" />
 </p>
 
-### ☁️ Cloud, DevOps & Backend
+### 🌐 Web3
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express,fastapi,docker,git,github,gitlab,firebase,n8n,ts,js,react,nextjs,tailwind,redux,d3,pycharm,figma,gmail,matlab&perline=12" />
+  <img src="https://skillicons.dev/icons?i=solidity&perline=12" />
+</p>
+<p align="center">
+  <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-FFF100?style=flat&logoColor=black" />
+  <img alt="Foundry" src="https://img.shields.io/badge/Foundry-000000?style=flat&logoColor=white" />
+  <img alt="Ethers.js" src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white" />
 </p>
 
 ---
