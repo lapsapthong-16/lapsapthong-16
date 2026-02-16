@@ -30,18 +30,6 @@
 - 🛠️ Comfortable with **Java/Node** backends + **TensorFlow** & **PyTorch**
 
 ---
-
-## 🚧 Projects
-
-| Project | GitHub Link |
-|---|---|
-| **Project One** – short one-liner about what it does | [github.com/yourname/project-one](https://github.com/yourname/project-one) |
-| **Project Two** – short one-liner about what it does | [github.com/yourname/project-two](https://github.com/yourname/project-two) |
-| **Project Three** – short one-liner about what it does | [github.com/yourname/project-three](https://github.com/yourname/project-three) |
-
-> Tip: keep it to 3–5 projects; use concise one-liners that show impact (perf win, users, scale, DX).
-
----
 <!--
 ## 🎨 Tech Stack & Tools
 
