@@ -33,9 +33,17 @@
 
 ## 🎨 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,react,nextjs,nodejs,d3,redux,sklearn,tensorflow,pytorch,docker,git,github,anaconda,firebase,redis,pycharm,figma,matlab,gmail,mongodb&perline=12" />
-</p>
+### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&perline=12" />
+
+### 🧱 Data Engineering
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=12" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,nginx&perline=12" />
+
+### 🧩 Full Stack & Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,react,nextjs&perline=12" />
 
 ---
 ## 📊 GitHub Stats
