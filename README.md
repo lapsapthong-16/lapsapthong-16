@@ -40,7 +40,7 @@
 
 ### 🧱 Data Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=12" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,qdrant&perline=12" />
 </p>
 
 ### 🌐 Web3 Development
