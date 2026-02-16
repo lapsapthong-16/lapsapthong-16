@@ -35,27 +35,22 @@
 
 ### 🧠 AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda,matlab&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,anaconda&perline=12" />
 </p>
 
-### 🧩 Full Stack (Frontend)
+### 🧱 Data Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,d3&perline=12" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=12" />
 </p>
 
-### ⚙️ Backend
+### 🌐 Web3 Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,redis,firebase&perline=12" />
+  <img src="https://skillicons.dev/icons?i=solidity,hardhat,ethers,web3js&perline=12" />
 </p>
 
-### ☁️ DevOps / Workflow
+### ☁️ Cloud, DevOps & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&perline=12" />
-</p>
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,figma,gmail&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,fastapi,docker,git,github,gitlab,firebase,n8n,ts,js,react,nextjs,tailwind,redux,d3,pycharm,figma,gmail,matlab&perline=12" />
 </p>
 
 ---
