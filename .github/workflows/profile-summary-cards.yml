@@ -2,21 +2,26 @@ name: Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch: 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write   
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: lapsapthong-16
-          # Optional: choose theme (see below)
-          # THEME: "github_dark"
+          BRANCH: main
+          # THEME: github_dark  # optional
