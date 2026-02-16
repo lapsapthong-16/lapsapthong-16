@@ -33,17 +33,30 @@
 
 ## 🎨 Tech Stack & Tools
 
-### 🤖 AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&perline=12" />
+### 🧠 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda,matlab&perline=12" />
+</p>
 
-### 🧱 Data Engineering
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=12" />
+### 🧩 Full Stack (Frontend)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,d3&perline=12" />
+</p>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,nginx&perline=12" />
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,redis,firebase&perline=12" />
+</p>
 
-### 🧩 Full Stack & Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,react,nextjs&perline=12" />
+### ☁️ DevOps / Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github&perline=12" />
+</p>
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pycharm,figma,gmail&perline=12" />
+</p>
 
 ---
 ## 📊 GitHub Stats
