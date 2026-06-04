@@ -76,6 +76,183 @@ Basically: I like AI that can actually do useful work inside a real workflow.
 
 ---
 
+## 🏆 Hackathon Achievements
+
+<p align="center">
+  <i>Fast builds, shipped ideas, and a few fun builder moments along the way.</i>
+</p>
+
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Achievement</th>
+    <th>Project & Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td><b>Monad Hackathon 2026</b></td>
+    <td>🥈 2nd Place</td>
+    <td>
+      <b>Brain Hotel</b> — An AI knowledge-preservation platform that turns expert knowledge, documents, and experiences into searchable memory vaults through RAG and interactive memory rooms.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/RAG-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Semantic%20Search-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Monad-8ec5ff?style=flat" />
+      <img src="https://img.shields.io/badge/0G%20Storage-bb8cff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Deriv AI Hackathon 2026</b></td>
+    <td>🥈 2nd Place</td>
+    <td>
+      <b>Truman</b> — A multi-agent AI decision-support system that transforms unstructured enterprise data into structured events, predictions, and actionable recommendations.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20AI-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/MCP--style%20Pipeline-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Enterprise%20AI-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Touch ’n Go FinHack 2026</b></td>
+    <td>🏅 4th Place</td>
+    <td>
+      <b>Signal</b> — A real-time AI recommendation system for TnG eWallet that delivers context-aware deals during and after transactions using semantic enrichment and ML ranking.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Recommendation%20System-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Vector%20Search-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/XGBoost-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/AWS%20%2B%20Alibaba%20Cloud-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>ETH Tokyo 2025</b></td>
+    <td>🏆 AI Track Champion</td>
+    <td>
+      <b>Toku Kaigan</b> — A privacy-first AI assistant using Trusted Execution Environments for secure LLM inference, multi-model orchestration, and optional RAG pipelines.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Privacy%20AI-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/TEE-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/LLM%20Orchestration-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/RAG-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>ETHGlobal Taipei 2025</b></td>
+    <td>🥈 1inch Track 2nd Place</td>
+    <td>
+      <b>MCP</b> — A cross-system automation platform connecting Web2 tools like Gmail and Google Sheets with Web3 services like MetaMask and 1inch through event-driven workflows.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI%20Automation-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Web2%20%2B%20Web3-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/1inch-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/TEE-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+</table>
+
+---
+
+## 🧩 Builder Side Quests
+
+<p align="center">
+  <i>Research, personal projects, experiments, and systems I built outside the usual hackathon format.</i>
+</p>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Type</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td><b>📄 RAG Document QA Research</b></td>
+    <td>Published Research</td>
+    <td>
+      Co-authored a document interaction system using RAG, FAISS vector search, embedding models, and LLMs.
+      Evaluated outputs using ROUGE-1, BERTScore, Human-Like Performance, and latency to study response quality and real-time usability.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/RAG-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/FAISS-7c5cff?style=flat" />
+      <img src="https://img.shields.io/badge/LLM%20Evaluation-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Published%20Research-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Paper</a></td>
+  </tr>
+
+  <tr>
+    <td><b>💬 Sentiment + Emotion Classifier</b></td>
+    <td>Final Year Project</td>
+    <td>
+      Built a multitask learning framework for joint sentiment and emotion classification on Reddit crisis communication text.
+      Fine-tuned BERTweet and DistilRoBERTa under single-task and multi-task settings, then evaluated robustness using Macro-F1 across multiple runs.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NLP-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/BERTweet-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/DistilRoBERTa-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Macro--F1-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🧾 AI Financial Workflow Automation</b></td>
+    <td>Internship Build</td>
+    <td>
+      Built AI-powered automation for financial workflows, including OCR benchmarking, bank statement extraction, invoice matching, fuzzy entity matching, and human-in-the-loop approval flows.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OCR-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/FastAPI-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Human--in--the--Loop-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🔎 Browhere</b></td>
+    <td>Personal Project</td>
+    <td>
+      A semantic desktop search idea for finding files through meaning instead of exact filenames.
+      Designed around embeddings, local file understanding, and AI-assisted discovery across personal knowledge.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Semantic%20Search-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Embeddings-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Personal%20AI-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/In%20Progress-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>💳 RipplexEasyA</b></td>
+    <td>Systems / Web3 Build</td>
+    <td>
+      Developed backend infrastructure for crypto-to-fiat payments using just-in-time card funding, virtual debit cards, and transaction orchestration across XRPL and EVM-based assets.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/XRPL-23292F?style=flat" />
+      <img src="https://img.shields.io/badge/REST%20APIs-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+</table>
+
+---
+
 ## 🎨 Tech Stack & Tools
 
 ### 🤖 AI / Machine Learning / NLP
