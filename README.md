@@ -101,7 +101,9 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Monad-8ec5ff?style=flat" />
       <img src="https://img.shields.io/badge/0G%20Storage-bb8cff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/monad2026/blob/main/README.md">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/monad2026/blob/main/README.md" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
   <tr>
@@ -115,7 +117,9 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/XGBoost-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/AWS%20%2B%20Alibaba%20Cloud-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/roadblock">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/roadblock" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
   <tr>
@@ -129,7 +133,9 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Enterprise%20AI-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/deriv2026">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/deriv2026" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
   <tr>
@@ -143,7 +149,9 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/ENS-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/Privacy%20%2B%20ZK-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/hackmoney26">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/hackmoney26" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
   <tr>
@@ -157,12 +165,14 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/LLM%20Orchestration-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/RAG-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/ethtokyo">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/ethtokyo" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
   <tr>
     <td><b>IOTA Malaysia Hackathon 2025</b></td>
-    <td>🎯 6th Place</td>
+    <td>🎯 6th - 10th Place</td>
     <td>
       <b>Cap Attendance</b> — A decentralized proof-of-attendance system that verifies student attendance using face recognition, maps face hashes to on-chain DIDs, and issues verifiable academic credentials through smart contracts.
       <br/><br/>
@@ -171,7 +181,9 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/IOTA-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/Move%20Smart%20Contracts-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/iota-hackathon">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/iota-hackathon" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
   <tr>
@@ -185,7 +197,9 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20APIs-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/EasyA-Wiser">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/EasyA-Wiser" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
   <tr>
@@ -199,23 +213,26 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/1inch-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/TEE-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/memest-cutest-platform">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/memest-cutest-platform" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
 
-  <tr>  
+  <tr>
     <td><b>Eigen Games / ETH Denver 2025</b></td>
-      <td>🥉 Hyperbolic Track 3rd Place</td>
-      <td>
-        <b>Hyperbolic GPU Training Platform</b> — A machine learning training workflow where users upload a CSV, select a model, and run training jobs on rented Hyperbolic GPUs instead of relying on local compute.
-      <br/><br/>  
-      <img src="https://img.shields.io/badge/ML%20Training-daa6ff?style=flat" />  
-      <img src="https://img.shields.io/badge/GPU%20Compute-f4b6ff?style=flat" /> 
-      <img src="https://img.shields.io/badge/Hyperbolic-bb8cff?style=flat" />  
-      <img src="https://img.shields.io/badge/AI%20Infrastructure-8ec5ff?style=flat" />  
-    </td>  
-    <td><a href="#https://github.com/lapsapthong-16/Hyperbolic-AgentKit">Repo</a></td>  
+    <td>🥉 Hyperbolic Track 3rd Place</td>
+    <td>
+      <b>Hyperbolic GPU Training Platform</b> — A machine learning training workflow where users upload a CSV, select a model, and run training jobs on rented Hyperbolic GPUs instead of relying on local compute.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ML%20Training-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/GPU%20Compute-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Hyperbolic-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/AI%20Infrastructure-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/Hyperbolic-AgentKit" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
-  
 </table>
 
 ---
@@ -233,6 +250,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
     <th>Description</th>
     <th>Links</th>
   </tr>
+
   <tr>
     <td><b>🔎 Browhere</b></td>
     <td>Personal Project</td>
@@ -245,9 +263,11 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Personal%20AI-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/In%20Progress-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/browhere">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/browhere" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
-  
+
   <tr>
     <td><b>💬 Sentiment + Emotion Classifier</b></td>
     <td>Final Year Project</td>
@@ -260,9 +280,11 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/DistilRoBERTa-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/Macro--F1-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/monkiebot">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/monkiebot" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
-  
+
   <tr>
     <td><b>📄 RAG Document QA Research</b></td>
     <td>Published Research</td>
@@ -275,9 +297,10 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/LLM%20Evaluation-f4b6ff?style=flat" />
       <img src="https://img.shields.io/badge/Published%20Research-8ec5ff?style=flat" />
     </td>
-    <td><a href="https://github.com/lapsapthong-16/monkiebot">Repo</a></td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/monkiebot" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
   </tr>
-  
 </table>
 
 ---
@@ -343,36 +366,6 @@ Basically: I like AI that can actually do useful work inside a real workflow.
 <p align="center">
   <i>Web3 is my bonus playground — especially where it overlaps with AI, automation, privacy, and secure workflows.</i>
 </p>
-
----
-
-## ✨ Selected Highlights
-
-### 🧾 AI Software Engineer Intern
-
-* Built AI-powered automation for financial workflows
-* Worked on OCR benchmarking, bank statement extraction, invoice matching, and entity matching
-* Integrated AI modules into workflows using **FastAPI**, databases, and workflow orchestration tools
-* Designed human-in-the-loop approval flows for more reliable AI-assisted decisions
-
-### 📄 Published RAG Research
-
-* Co-authored research on document interaction using **RAG**, **FAISS**, embedding models, and LLMs
-* Evaluated responses using **ROUGE-1**, **BERTScore**, and **Human-Like Performance**
-* Focused on making document QA more accurate, efficient, and human-aligned
-
-### 🧠 NLP / Final Year Project
-
-* Built a multitask learning framework for **sentiment + emotion classification** on Reddit crisis text
-* Fine-tuned transformer models including **BERTweet** and **DistilRoBERTa**
-* Evaluated model robustness using **Macro-F1** across multiple training runs
-
-### 🏆 Hackathon Highlights
-
-* 🥈 **Deriv AI Hackathon 2026** — Multi-agent AI system for enterprise data
-* 🏅 **Touch ’n Go FinHack 2026** — AI-powered real-time recommendation system
-* 🥈 **ETHGlobal Taipei** — Cross-system AI automation platform for Web2 + Web3 workflows
-* 🏆 **ETH Tokyo 2025** — Privacy-first AI assistant using TEE and LLM orchestration
 
 ---
 
