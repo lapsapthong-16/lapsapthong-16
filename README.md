@@ -115,7 +115,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/XGBoost-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/AWS%20%2B%20Alibaba%20Cloud-8ec5ff?style=flat" />
     </td>
-    <td><a href="#">Repo</a></td>
+    <td><a href="https://github.com/lapsapthong-16/roadblock">Repo</a></td>
   </tr>
 
   <tr>
@@ -129,7 +129,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Enterprise%20AI-8ec5ff?style=flat" />
     </td>
-    <td><a href="#">Repo</a></td>
+    <td><a href="https://github.com/lapsapthong-16/deriv2026">Repo</a></td>
   </tr>
 
   <tr>
@@ -143,7 +143,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/LLM%20Orchestration-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/RAG-8ec5ff?style=flat" />
     </td>
-    <td><a href="#">Repo</a></td>
+    <td><a href="https://github.com/lapsapthong-16/ethtokyo">Repo</a></td>
   </tr>
 
   <tr>
@@ -157,7 +157,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20APIs-8ec5ff?style=flat" />
     </td>
-    <td><a href="#">Repo</a></td>
+    <td><a href="https://github.com/lapsapthong-16/EasyA-Wiser">Repo</a></td>
   </tr>
 
   <tr>
@@ -171,7 +171,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/1inch-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/TEE-8ec5ff?style=flat" />
     </td>
-    <td><a href="#">Repo</a></td>
+    <td><a href="https://github.com/lapsapthong-16/memest-cutest-platform">Repo</a></td>
   </tr>
 </table>
 
@@ -190,37 +190,6 @@ Basically: I like AI that can actually do useful work inside a real workflow.
     <th>Description</th>
     <th>Links</th>
   </tr>
-
-  <tr>
-    <td><b>📄 RAG Document QA Research</b></td>
-    <td>Published Research</td>
-    <td>
-      Co-authored a document interaction system using RAG, FAISS vector search, embedding models, and LLMs.
-      Evaluated outputs using ROUGE-1, BERTScore, Human-Like Performance, and latency to study response quality and real-time usability.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/RAG-daa6ff?style=flat" />
-      <img src="https://img.shields.io/badge/FAISS-7c5cff?style=flat" />
-      <img src="https://img.shields.io/badge/LLM%20Evaluation-f4b6ff?style=flat" />
-      <img src="https://img.shields.io/badge/Published%20Research-8ec5ff?style=flat" />
-    </td>
-    <td><a href="#">Paper</a></td>
-  </tr>
-
-  <tr>
-    <td><b>💬 Sentiment + Emotion Classifier</b></td>
-    <td>Final Year Project</td>
-    <td>
-      Built a multitask learning framework for joint sentiment and emotion classification on Reddit crisis communication text.
-      Fine-tuned BERTweet and DistilRoBERTa under single-task and multi-task settings, then evaluated robustness using Macro-F1 across multiple runs.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/NLP-daa6ff?style=flat" />
-      <img src="https://img.shields.io/badge/BERTweet-f4b6ff?style=flat" />
-      <img src="https://img.shields.io/badge/DistilRoBERTa-bb8cff?style=flat" />
-      <img src="https://img.shields.io/badge/Macro--F1-8ec5ff?style=flat" />
-    </td>
-    <td><a href="#">Repo</a></td>
-  </tr>
-
   <tr>
     <td><b>🔎 Browhere</b></td>
     <td>Personal Project</td>
@@ -233,8 +202,39 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Personal%20AI-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/In%20Progress-8ec5ff?style=flat" />
     </td>
-    <td><a href="#">Repo</a></td>
+    <td><a href="https://github.com/lapsapthong-16/browhere">Repo</a></td>
   </tr>
+  
+  <tr>
+    <td><b>💬 Sentiment + Emotion Classifier</b></td>
+    <td>Final Year Project</td>
+    <td>
+      Built a multitask learning framework for joint sentiment and emotion classification on Reddit crisis communication text.
+      Fine-tuned BERTweet and DistilRoBERTa under single-task and multi-task settings, then evaluated robustness using Macro-F1 across multiple runs.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NLP-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/BERTweet-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/DistilRoBERTa-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Macro--F1-8ec5ff?style=flat" />
+    </td>
+    <td><a href="https://github.com/lapsapthong-16/monkiebot">Repo</a></td>
+  </tr>
+  
+  <tr>
+    <td><b>📄 RAG Document QA Research</b></td>
+    <td>Published Research</td>
+    <td>
+      Co-authored a document interaction system using RAG, FAISS vector search, embedding models, and LLMs.
+      Evaluated outputs using ROUGE-1, BERTScore, Human-Like Performance, and latency to study response quality and real-time usability.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/RAG-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/FAISS-7c5cff?style=flat" />
+      <img src="https://img.shields.io/badge/LLM%20Evaluation-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Published%20Research-8ec5ff?style=flat" />
+    </td>
+    <td><a href="https://github.com/lapsapthong-16/monkiebot">Repo</a></td>
+  </tr>
+  
 </table>
 
 ---
