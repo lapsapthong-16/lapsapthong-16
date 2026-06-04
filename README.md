@@ -123,6 +123,22 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
+    <td><b>NottsHack 2026</b></td>
+    <td>🎖️ Dash Track Consolation Award</td>
+    <td>
+      <b>Validus</b> — An AI-powered security audit platform that scans npm packages for malicious code, supply chain risks, and suspicious runtime behavior, with audit results stored on-chain for transparency.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI%20Security-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Supply%20Chain%20Audit-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/AI%20Agents-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Dash%20Platform-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/nottshack2026" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
     <td><b>Deriv AI Hackathon 2026</b></td>
     <td>🥈 2nd Place</td>
     <td>
@@ -269,6 +285,38 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
+    <td><b>🛰️ Jarvis</b></td>
+    <td>Hackathon Build</td>
+    <td>
+      A threat intelligence and geospatial visualization dashboard for floods and landslides, combining 3D urban simulation, probabilistic threat mapping, evacuation routing, and live disaster intelligence feeds.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Geospatial%20AI-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/CesiumJS-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Disaster%20Intelligence-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Next.js-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/putmeindior" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>🏙️ CoinTown</b></td>
+    <td>GameFi Prototype</td>
+    <td>
+      A 3D Monopoly-style GameFi application that turns RWA ownership and yield into playable properties, rent generation, upgrades, and on-chain game interactions on Mantle.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/GameFi-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/RWA-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Mantle-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Three.js-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/mantle-hacks" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
     <td><b>💬 Sentiment + Emotion Classifier</b></td>
     <td>Final Year Project</td>
     <td>
@@ -281,7 +329,39 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Macro--F1-8ec5ff?style=flat" />
     </td>
     <td>
-      <a href="https://github.com/lapsapthong-16/monkiebot" target="_blank" rel="noopener noreferrer">Repo</a>
+      <a href="https://github.com/lapsapthong-16/FYP" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+   <tr>
+    <td><b>🐱 PsyCatrist Time</b></td>
+    <td>AI Prototype</td>
+    <td>
+      A private AI mental-health support platform with emotional chat support, session memory, reflection panels, manga-style generation, and personalized guidance in a judgment-free environment.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI%20Companion-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/RAG%20Memory-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/MongoDB-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Three.js-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/cureMe" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+   <tr>
+    <td><b>🔗 LinkedOut</b></td>
+    <td>Hackathon Build</td>
+    <td>
+      An AI-powered crosschain workflow automation platform that turns natural language prompts into executable visual workflows for bridging, smart contract execution, and multi-agent blockchain interactions.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI%20Workflow%20Generation-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Crosschain%20Automation-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Avail%20Nexus-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Hedera%20A2A-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/LinkedOut" target="_blank" rel="noopener noreferrer">Repo</a>
     </td>
   </tr>
 
