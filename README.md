@@ -1,3 +1,141 @@
+## ✨ Featured AI Projects
+
+<p align="center">
+  <i>Some of the systems I’ve built across RAG, agents, NLP, recommendations, automation, and AI + Web3.</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏨 Brain Hotel</h3>
+      <p><b>AI Knowledge Preservation Platform · Monad Hackathon 2026 · 🥈 2nd Place</b></p>
+      <p>
+        Built an AI-powered platform that transforms expert knowledge, documents, and personal experience into searchable “memory vaults.”
+        Users can explore interactive hotel-style memory rooms and query domain-specific knowledge through RAG.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-daa6ff?style=flat" />
+        <img src="https://img.shields.io/badge/Semantic%20Search-f4b6ff?style=flat" />
+        <img src="https://img.shields.io/badge/Monad-8ec5ff?style=flat" />
+        <img src="https://img.shields.io/badge/0G%20Storage-bb8cff?style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧠 Truman</h3>
+      <p><b>Multi-Agent AI System · Deriv AI Hackathon 2026 · 🥈 2nd Place</b></p>
+      <p>
+        Developed an AI decision-support system that turns unstructured enterprise data into structured events, predictions, and actionable recommendations.
+        Built MCP-style crawling, event extraction, and multi-agent reasoning workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Multi--Agent%20AI-daa6ff?style=flat" />
+        <img src="https://img.shields.io/badge/MCP--style%20Workflow-f4b6ff?style=flat" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Enterprise%20AI-8ec5ff?style=flat" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>💸 Signal</h3>
+      <p><b>AI Recommendation System · Touch ’n Go FinHack 2026 · 🏅 4th Place</b></p>
+      <p>
+        Built a real-time recommendation system for TnG eWallet that delivers context-aware deals during and after transactions.
+        Designed a dual-pipeline system combining LLM semantic enrichment, vector similarity, intent classification, and ML ranking.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Recommendation%20System-daa6ff?style=flat" />
+        <img src="https://img.shields.io/badge/Vector%20Search-f4b6ff?style=flat" />
+        <img src="https://img.shields.io/badge/XGBoost-bb8cff?style=flat" />
+        <img src="https://img.shields.io/badge/AWS%20%2B%20Alibaba%20Cloud-8ec5ff?style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📄 RAG Document QA Research</h3>
+      <p><b>Published Research · IEEE ICCBE 2025 / MDPI Engineering Proceedings 2026</b></p>
+      <p>
+        Co-authored a document interaction system using RAG, FAISS vector search, embedding models, and LLMs.
+        Evaluated model outputs using ROUGE-1, BERTScore, Human-Like Performance, and latency for real-time usability.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-daa6ff?style=flat" />
+        <img src="https://img.shields.io/badge/FAISS-7c5cff?style=flat" />
+        <img src="https://img.shields.io/badge/LLM%20Evaluation-f4b6ff?style=flat" />
+        <img src="https://img.shields.io/badge/Published%20Research-8ec5ff?style=flat" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>💬 Sentiment + Emotion Classification</h3>
+      <p><b>Final Year Project · NLP / Multitask Learning</b></p>
+      <p>
+        Built a multitask learning framework for joint sentiment and emotion classification on Reddit crisis text.
+        Fine-tuned BERTweet and DistilRoBERTa under single-task and multi-task settings, then evaluated robustness using Macro-F1 across multiple runs.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-daa6ff?style=flat" />
+        <img src="https://img.shields.io/badge/BERTweet-f4b6ff?style=flat" />
+        <img src="https://img.shields.io/badge/DistilRoBERTa-bb8cff?style=flat" />
+        <img src="https://img.shields.io/badge/Macro--F1-8ec5ff?style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔐 Toku Kaigan</h3>
+      <p><b>Privacy-First AI Assistant · ETH Tokyo 2025 · 🏆 AI Track Champion</b></p>
+      <p>
+        Developed a privacy-preserving AI assistant using Trusted Execution Environments for secure LLM inference.
+        Explored multi-model orchestration, optional RAG pipelines, and trade-offs between privacy, latency, and AI performance.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Privacy%20AI-daa6ff?style=flat" />
+        <img src="https://img.shields.io/badge/TEE-f4b6ff?style=flat" />
+        <img src="https://img.shields.io/badge/LLM%20Orchestration-bb8cff?style=flat" />
+        <img src="https://img.shields.io/badge/AI%20Track%20Champion-8ec5ff?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧪 More Builder Side Quests
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧩 MCP</h3>
+      <p><b>Cross-System AI Automation Platform · ETHGlobal Taipei · 🥈 1inch Track 2nd Place</b></p>
+      <p>
+        Built a drag-and-drop backend platform connecting Web2 tools like Gmail and Google Sheets with Web3 services like MetaMask and 1inch.
+        Designed event-driven workflows with AI-based decision logic and secure data handling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Automation-daa6ff?style=flat" />
+        <img src="https://img.shields.io/badge/Web2%20%2B%20Web3-f4b6ff?style=flat" />
+        <img src="https://img.shields.io/badge/1inch-bb8cff?style=flat" />
+        <img src="https://img.shields.io/badge/TEE-8ec5ff?style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💳 RipplexEasyA</h3>
+      <p><b>Decentralised Payment Infrastructure · Backend Developer</b></p>
+      <p>
+        Developed backend infrastructure for crypto-to-fiat payments using just-in-time card funding.
+        Worked on XRPL Pathfinding, on-chain KYC via DIDs, Marqeta Sandbox API, and REST APIs for transaction orchestration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/XRPL-23292F?style=flat" />
+        <img src="https://img.shields.io/badge/REST%20APIs-8ec5ff?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <!-- Header -->
 
 <p align="center">
