@@ -213,7 +213,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Hyperbolic-bb8cff?style=flat" />  
       <img src="https://img.shields.io/badge/AI%20Infrastructure-8ec5ff?style=flat" />  
     </td>  
-    <td><a href="#">Repo</a></td>  
+    <td><a href="#https://github.com/lapsapthong-16/Hyperbolic-AgentKit">Repo</a></td>  
   </tr>
   
 </table>
