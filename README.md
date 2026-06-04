@@ -133,6 +133,20 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
+    <td><b>ETH HackMoney 2026</b></td>
+    <td>🏅 ENS Prize Pool Award</td>
+    <td>
+      <b>Xiphias</b> — A privacy-focused prediction market protocol that reduces liquidity fragmentation, whale manipulation, and wallet-level trade exposure using unified time-based markets, hybrid AMM + CLOB execution, and shielded trading.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Prediction%20Markets-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Hybrid%20AMM%20%2B%20CLOB-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/ENS-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Privacy%20%2B%20ZK-8ec5ff?style=flat" />
+    </td>
+    <td><a href="https://github.com/lapsapthong-16/hackmoney26">Repo</a></td>
+  </tr>
+
+  <tr>
     <td><b>ETH Tokyo 2025</b></td>
     <td>🏆 AI Track Champion</td>
     <td>
@@ -144,6 +158,20 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/RAG-8ec5ff?style=flat" />
     </td>
     <td><a href="https://github.com/lapsapthong-16/ethtokyo">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>IOTA Malaysia Hackathon 2025</b></td>
+    <td>🎯 6th Place</td>
+    <td>
+      <b>Cap Attendance</b> — A decentralized proof-of-attendance system that verifies student attendance using face recognition, maps face hashes to on-chain DIDs, and issues verifiable academic credentials through smart contracts.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Face%20Recognition-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/DID-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/IOTA-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Move%20Smart%20Contracts-8ec5ff?style=flat" />
+    </td>
+    <td><a href="https://github.com/lapsapthong-16/iota-hackathon">Repo</a></td>
   </tr>
 
   <tr>
@@ -173,6 +201,21 @@ Basically: I like AI that can actually do useful work inside a real workflow.
     </td>
     <td><a href="https://github.com/lapsapthong-16/memest-cutest-platform">Repo</a></td>
   </tr>
+
+  <tr>  
+    <td><b>Eigen Games / ETH Denver 2025</b></td>
+      <td>🥉 Hyperbolic Track 3rd Place</td>
+      <td>
+        <b>Hyperbolic GPU Training Platform</b> — A machine learning training workflow where users upload a CSV, select a model, and run training jobs on rented Hyperbolic GPUs instead of relying on local compute.
+      <br/><br/>  
+      <img src="https://img.shields.io/badge/ML%20Training-daa6ff?style=flat" />  
+      <img src="https://img.shields.io/badge/GPU%20Compute-f4b6ff?style=flat" /> 
+      <img src="https://img.shields.io/badge/Hyperbolic-bb8cff?style=flat" />  
+      <img src="https://img.shields.io/badge/AI%20Infrastructure-8ec5ff?style=flat" />  
+    </td>  
+    <td><a href="#">Repo</a></td>  
+  </tr>
+  
 </table>
 
 ---
