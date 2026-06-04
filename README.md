@@ -101,7 +101,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Monad-8ec5ff?style=flat" />
       <img src="https://img.shields.io/badge/0G%20Storage-bb8cff?style=flat" />
     </td>
-    <td><a href="#">Repo</a></td>
+    <td><a href="https://github.com/lapsapthong-16/monad2026/blob/main/README.md">Repo</a></td>
   </tr>
 
   <tr>
