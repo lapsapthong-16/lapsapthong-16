@@ -105,20 +105,6 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
-    <td><b>Deriv AI Hackathon 2026</b></td>
-    <td>🥈 2nd Place</td>
-    <td>
-      <b>Truman</b> — A multi-agent AI decision-support system that transforms unstructured enterprise data into structured events, predictions, and actionable recommendations.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Multi--Agent%20AI-daa6ff?style=flat" />
-      <img src="https://img.shields.io/badge/MCP--style%20Pipeline-f4b6ff?style=flat" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Enterprise%20AI-8ec5ff?style=flat" />
-    </td>
-    <td><a href="#">Repo</a></td>
-  </tr>
-
-  <tr>
     <td><b>Touch ’n Go FinHack 2026</b></td>
     <td>🏅 4th Place</td>
     <td>
@@ -133,6 +119,20 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
+    <td><b>Deriv AI Hackathon 2026</b></td>
+    <td>🥈 2nd Place</td>
+    <td>
+      <b>Truman</b> — A multi-agent AI decision-support system that transforms unstructured enterprise data into structured events, predictions, and actionable recommendations.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20AI-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/MCP--style%20Pipeline-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Enterprise%20AI-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
     <td><b>ETH Tokyo 2025</b></td>
     <td>🏆 AI Track Champion</td>
     <td>
@@ -142,6 +142,20 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/TEE-f4b6ff?style=flat" />
       <img src="https://img.shields.io/badge/LLM%20Orchestration-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/RAG-8ec5ff?style=flat" />
+    </td>
+    <td><a href="#">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td><b>EasyA x Ripple Hackathon Singapore</b></td>
+    <td>🥈 2nd Place</td>
+    <td>
+      <b>RipplexEasyA</b> — A decentralized payment infrastructure for crypto-to-fiat payments using just-in-time card funding, virtual debit cards, and transaction orchestration across XRPL and EVM-based assets.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Payments-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/XRPL-23292F?style=flat" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20APIs-8ec5ff?style=flat" />
     </td>
     <td><a href="#">Repo</a></td>
   </tr>
@@ -166,7 +180,7 @@ Basically: I like AI that can actually do useful work inside a real workflow.
 ## 🧩 Builder Side Quests
 
 <p align="center">
-  <i>Research, personal projects, experiments, and systems I built outside the usual hackathon format.</i>
+  <i>Research, personal projects, experiments, and systems I build outside the usual hackathon format.</i>
 </p>
 
 <table>
@@ -208,20 +222,6 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
-    <td><b>🧾 AI Financial Workflow Automation</b></td>
-    <td>Internship Build</td>
-    <td>
-      Built AI-powered automation for financial workflows, including OCR benchmarking, bank statement extraction, invoice matching, fuzzy entity matching, and human-in-the-loop approval flows.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/OCR-daa6ff?style=flat" />
-      <img src="https://img.shields.io/badge/FastAPI-f4b6ff?style=flat" />
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/Human--in--the--Loop-8ec5ff?style=flat" />
-    </td>
-    <td><a href="#">Demo</a></td>
-  </tr>
-
-  <tr>
     <td><b>🔎 Browhere</b></td>
     <td>Personal Project</td>
     <td>
@@ -232,20 +232,6 @@ Basically: I like AI that can actually do useful work inside a real workflow.
       <img src="https://img.shields.io/badge/Embeddings-f4b6ff?style=flat" />
       <img src="https://img.shields.io/badge/Personal%20AI-bb8cff?style=flat" />
       <img src="https://img.shields.io/badge/In%20Progress-8ec5ff?style=flat" />
-    </td>
-    <td><a href="#">Repo</a></td>
-  </tr>
-
-  <tr>
-    <td><b>💳 RipplexEasyA</b></td>
-    <td>Systems / Web3 Build</td>
-    <td>
-      Developed backend infrastructure for crypto-to-fiat payments using just-in-time card funding, virtual debit cards, and transaction orchestration across XRPL and EVM-based assets.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/XRPL-23292F?style=flat" />
-      <img src="https://img.shields.io/badge/REST%20APIs-8ec5ff?style=flat" />
     </td>
     <td><a href="#">Repo</a></td>
   </tr>
