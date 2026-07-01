@@ -268,6 +268,22 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
+    <td><b>📅 Rosterlah</b></td>
+    <td>Personal Project</td>
+    <td>
+      A lightweight rostering app for small teams to plan weekly shifts, fill open slots through drag-and-drop, Quick Add, or public Claim Links, and track account-free worker confirmations from one dashboard.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Scheduling-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Claim%20Links-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Next.js-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/PostgreSQL-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/rosterlah" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
     <td><b>🔎 Browhere</b></td>
     <td>Personal Project</td>
     <td>
@@ -281,22 +297,6 @@ Basically: I like AI that can actually do useful work inside a real workflow.
     </td>
     <td>
       <a href="https://github.com/lapsapthong-16/browhere" target="_blank" rel="noopener noreferrer">Repo</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>📅 Rosterlah</b></td>
-    <td>Personal Project</td>
-    <td>
-      A lightweight rostering app for small teams to plan weekly shifts, fill open slots through drag-and-drop, Quick Add, or public Claim Links, and track account-free worker confirmations from one dashboard.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Scheduling-daa6ff?style=flat" />
-      <img src="https://img.shields.io/badge/Claim%20Links-f4b6ff?style=flat" />
-      <img src="https://img.shields.io/badge/Next.js-bb8cff?style=flat" />
-      <img src="https://img.shields.io/badge/PostgreSQL-8ec5ff?style=flat" />
-    </td>
-    <td>
-      <a href="https://github.com/lapsapthong-16/rosterlah" target="_blank" rel="noopener noreferrer">Repo</a>
     </td>
   </tr>
 
