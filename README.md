@@ -268,6 +268,38 @@ Basically: I like AI that can actually do useful work inside a real workflow.
   </tr>
 
   <tr>
+    <td><b>🛡️ Puffer</b></td>
+    <td>Hackathon Build</td>
+    <td>
+      An agent-native security layer and wallet interface on Sui that lets AI agents act autonomously within deterministic guardrails, while routing unfamiliar or risky transactions through Ledger-backed human review.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Agentic%20Wallet-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Sui-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/MCP-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/Ledger%20Security-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/muba2026" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>🔐 Locksmith</b></td>
+    <td>Hackathon Build</td>
+    <td>
+      A Qwen-powered dependency safety reviewer that puts repository dependency changes through six specialist agents, retrieves real package evidence, and produces an evidence-gated Allow, Review, or Block verdict.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI%20Security-daa6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Dependency%20Safety-f4b6ff?style=flat" />
+      <img src="https://img.shields.io/badge/Qwen-bb8cff?style=flat" />
+      <img src="https://img.shields.io/badge/AI%20Agents-8ec5ff?style=flat" />
+    </td>
+    <td>
+      <a href="https://github.com/lapsapthong-16/locksmith" target="_blank" rel="noopener noreferrer">Repo</a>
+    </td>
+  </tr>
+
+  <tr>
     <td><b>📅 Rosterlah</b></td>
     <td>Personal Project</td>
     <td>
